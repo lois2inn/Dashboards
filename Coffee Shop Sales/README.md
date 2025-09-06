@@ -15,7 +15,8 @@ To better understand purchase behavior and streamline operations, I collected tr
 - Build a dynamic dashboard to visualize patterns and trends.
 
 ### Data source: 
-The data set is a collection of transaction records from a fictitious coffee shop in New York City.
+The data set is a collection of transaction records from a fictitious coffee shop in New York City.<br/>
+<img src="Coffe_Shop_Sales_Data.png" />
 
 ### Tools Used:
 Microsoft Excel: Calculated Fields, PivotTables, Pivot Charts, Slicers
@@ -23,15 +24,18 @@ Microsoft Excel: Calculated Fields, PivotTables, Pivot Charts, Slicers
 ---
 
 ## Analysis
-
+<a href="https://github.com/lois2inn/Dashboards/blob/main/Coffee%20Shop%20Sales/Coffee_Shop_Sales_Analysis.pdf">Coffee Shop Sales Analysis</a>
 - The coffee shop dataset is explored, basic QA and profiling are conducted, and calculated date and time fields are added to prepare data for analysis.
 - The data is sliced and diced with Excel PivotTables, and views are created to analyze time series and product-level trends.
 - The following are some of the PivotTables added:
-Total Revenue by Month
-The number of transactions by day of the week and by hour of the day on the same sheet.
-The number of transactions by product category, sorted in descending order.
-The number of transactions and revenue by product type, sorted in descending order, and filtered to the top 15.
+   - Total Revenue by Month
+   - The number of transactions by day of the week and by hour of the day on the same sheet.
+   - The number of transactions by product category, sorted in descending order.
+   - The number of transactions and revenue by product type, sorted in descending order, and filtered to the top 15.
+
 - Pivot Charts are used to visualize data, and an interactive dashboard is designed to identify key insights and recommendations for the coffee shop.
+<br/>
+<img src="Coffee_Shop_Dashboard.png" width="500"/>
 
 ---
 
