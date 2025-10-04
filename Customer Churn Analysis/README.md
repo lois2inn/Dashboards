@@ -11,18 +11,25 @@ The dataset was first **checked for duplicates** in `Customer_ID` to ensure data
 
 Key analyses performed:  
 - **Overall Churn Rate:** 26.86%  
-- **Churn Reasons:** 50% of churned customers left for competitors.  
+- **Churn Reasons:** 50% of churned customers left for competitors.
+  
+  <img src="Overview.png" width=700/>
 - **Demographics:**  
   - Customers were categorized into **age bins**.  
-  - **Senior customers (38.46%)** showed the highest churn rate.  
+  - **Senior customers (38.46%)** showed the highest churn rate.
+    
+    <img src="AgeGroups.png" width=700/> 
 - **Geographical Analysis:**  
   - **California** showed an **abnormally high churn rate of 63.24%**.  
 - **Plan and Contract Insights:**  
   - Customers on **group plans** paid lower monthly charges and churned less.  
   - **Unlimited plans** had higher churn rates compared to month-to-month contracts.  
-  - **Churn rate decreases** with longer contract terms — from 1-month to 2-year plans.  
+  - **Churn rate decreases** with longer contract terms — from 1-month to 2-year plans.
+    <img src="ContractTypes.png" width=700/>
 - **Usage and Service Analysis:**  
-  - In California, **72% of churned customers** had an **international plan** they did not use.  
+  - In California, **72% of churned customers** had an **international plan** they did not use.
+    
+    <img src="UnlimitedData.png" width=500/>
 - **Payment Method:**  
   - **Direct Debit** was the most common payment method, followed by **credit card** and **paper check** customers.
 
