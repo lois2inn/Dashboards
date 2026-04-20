@@ -18,5 +18,10 @@
       <td><a href="https://github.com/lois2inn/Dashboards/tree/main/Customer%20Churn%20Analysis">Telecom Customer Churn Analysis</a></td>
       <td>A <strong>Microsoft Power BI</strong> case study analyzing customer churn patterns for Databel Telecom to identify key factors driving attrition and recommend data-driven strategies to improve customer retention.</td>
     </tr>
+    <tr>
+      <td>3</td>
+      <td><a href="https://github.com/lois2inn/Dashboards/tree/main/Customer%20Churn%20Analysis">React User Dashboard</a></td>
+      <td>A <strong>React-based</strong> user dashboard built with JavaScript and Vite, providing a fast, responsive interface for viewing and managing user data.</td>
+    </tr>
   </tbody>
 </table>
