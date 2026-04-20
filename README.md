@@ -20,7 +20,7 @@
     </tr>
     <tr>
       <td>3</td>
-      <td><a href="https://github.com/lois2inn/Dashboards/tree/main/Customer%20Churn%20Analysis">React User Dashboard</a></td>
+      <td><a href="https://github.com/lois2inn/Dashboards/tree/main/User%20Dashboard">React User Dashboard</a></td>
       <td>A <strong>React-based</strong> user dashboard built with JavaScript and Vite, providing a fast, responsive interface for viewing and managing user data.</td>
     </tr>
   </tbody>
