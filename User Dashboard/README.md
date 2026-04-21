@@ -4,6 +4,9 @@ A small user dashboard built with React and Vite.
 
 It displays users in a sortable, searchable, paginated table and supports navigating to a user details page.
 
+[![Watch the video](https://github.com/lois2inn/Dashboards/blob/main/User%20Dashboard/dboard_vid.png)](https://www.loom.com/share/bf40baad3b6c4f8eb246507973320629)
+
+
 ## Features
 
 - **User list dashboard**
