@@ -34,7 +34,9 @@ It displays users in a sortable, searchable, paginated table and supports naviga
   - Dark mode toggle (persisted)
 
 ## Tech Stack
-
+- HTML5
+- CSS
+- JavaScript
 - React
 - Vite
 - React Router
